@@ -1,0 +1,14 @@
+server:
+  port: 9989
+
+logging:
+  level:
+    root: info
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/study-mybatis
+    username: root
+    password: root
+#mybatis:
+#  mapper-locations: classpath:/mapper/*Mapper.xml
