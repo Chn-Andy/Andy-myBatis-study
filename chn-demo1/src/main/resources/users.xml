@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<users>
+    <user id ="1">
+        <name>张三</name>
+        <email>caohuanan123@126.com</email>
+        <age>18</age>
+        <sex>0</sex>
+        <schoolName>上海大学</schoolName>
+        <createTime>2021-06-08</createTime>
+    </user>
+    <user id ="2">
+        <name>刘老头</name>
+        <email>hncao@126.com</email>
+        <age>30</age>
+        <sex>1</sex>
+        <schoolName>北京大学</schoolName>
+        <createTime>2021-11-08</createTime>
+    </user>
+</users>
